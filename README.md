@@ -1,3 +1,11 @@
+Current schedule (3pm, Loomis 322).
+
+June 1: Paul, Automatic differentiation.
+June 8: Dima.
+June 15: Brian.
+June 22: Ben.
+June 29: Ale.
+
 
 Ideas for presentations:
 

@@ -6,24 +6,24 @@ Ideas for presentations:
 You may still need to break down some of these into finer catagories.
 
  - Machine learning.
-   - back propogation
-   - Boltzmann machine
-   - clustering
-   - high dimensional visualization
+   - Back propogation.
+   - Boltzmann machine.
+   - Clustering.
+   - High dimensional visualization.
  - Control theory and signal processing.
-   - model reduction.
+   - Model reduction.
    - Hidden markov model.
  - Stochastic algorithms.
-   - The Metroplis approach to sampling and it's alternatives (Gibbs sampling).
-   - global balance (pentalty method)
+   - The Metropolis approach to sampling and it's alternatives (Gibbs sampling, etc.).
+   - Global balance (pentalty method).
    - Quasi-random numbers.
-   - Swarm and evolutionary and genetics algorithms.
+   - Swarm, evolutionary, and genetics algorithms.
    - Parallel tempering.
    - Simulated annealing.
    - Stochastic hill climbing.
  - Encryption.
    - Symmetric-key, Public-key (RSA) cryptography
-   - Cryptanalysis
+   - Cryptanalysis (breaking encryption).
    - Hashing.
  - Optimzation.
    - Simplex method.
@@ -65,9 +65,8 @@ You may still need to break down some of these into finer catagories.
    - Error detection and correction, Hamming codes.
    - Internet security.
    - Network routing.
- - Anything you always wondered how it worked, but never bothered to it look up.
  - Classic CS algorithms
    - Quicksort, Graph theory, ...
-   - Cellular atomata
-   - Theory of computation (Turing, finite state machine, definition of language, regular expressions)
-   - complexity theory
+   - Cellular atomata.
+   - Theory of computation (Turing, finite state machine, definition of language, regular expressions).
+   - complexity theory.

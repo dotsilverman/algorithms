@@ -1,3 +1,13 @@
+Current schedule (3pm, Loomis 322).
+
+|Date | Person | Subject |
+|-----|--------|---------|
+|June 1  | Paul| Automatic differentiation|
+|June 8  | Dima |
+|June 15 | Brian|
+|June 22 | Ben|
+|June 29 | Alex |
+|July 6  | Matt | Image recognition |
 
 Ideas for presentations:
 
@@ -6,24 +16,24 @@ Ideas for presentations:
 You may still need to break down some of these into finer catagories.
 
  - Machine learning.
-   - back propogation
-   - Boltzmann machine
-   - clustering
-high dimensional visualization
+   - Back propogation.
+   - Boltzmann machine.
+   - Clustering.
+   - High dimensional visualization.
  - Control theory and signal processing.
-model reduction.
-Hidden markov model.
+   - Model reduction.
+   - Hidden markov model.
  - Stochastic algorithms.
-   - The Metroplis approach to sampling and it's alternatives (Gibbs sampling).
-   - global balance (pentalty method)
+   - The Metropolis approach to sampling and it's alternatives (Gibbs sampling, etc.).
+   - Global balance (pentalty method).
    - Quasi-random numbers.
-   - Swarm and evolutionary and genetics algorithms.
+   - Swarm, evolutionary, and genetics algorithms.
    - Parallel tempering.
    - Simulated annealing.
    - Stochastic hill climbing.
  - Encryption.
    - Symmetric-key, Public-key (RSA) cryptography
-   - Cryptanalysis
+   - Cryptanalysis (breaking encryption).
    - Hashing.
  - Optimzation.
    - Simplex method.
@@ -47,12 +57,12 @@ Hidden markov model.
    - Image compression techniques (one or more).
    - Compressed sensing.
  - Quantum computing.
- Quantum annealing.
-Quantum error correction.
-Grover and 
-Shor algorithm.
-Quantum encryption.
-Quantum stabilizers.
+   - Quantum annealing.
+   - Quantum error correction.
+   - Grover algorithm. 
+   - Shor algorithm.
+   - Quantum encryption.
+   - Quantum stabilizers.
  - Parallelism.
    - Parallel linear algebra.
    - OpenMP and MPI
@@ -65,9 +75,8 @@ Quantum stabilizers.
    - Error detection and correction, Hamming codes.
    - Internet security.
    - Network routing.
- - Anything you always wondered how it worked, but never bothered to it look up.
  - Classic CS algorithms
- - Quicksort, Graph theory, ...
- - Cellular atomata
- - Theory of computation (Turing, finite state machine, definition of language, regular expressions)
- - complexity theory
+   - Quicksort, Graph theory, ...
+   - Cellular atomata.
+   - Theory of computation (Turing, finite state machine, definition of language, regular expressions).
+   - complexity theory.

@@ -1,6 +1,8 @@
 
 Ideas for presentations:
+
 (incomplete list---please add things!)
+
 You may still need to break down some of these into finer catagories.
 
  - Machine learning.

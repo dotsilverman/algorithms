@@ -9,10 +9,10 @@ You may still need to break down some of these into finer catagories.
    - back propogation
    - Boltzmann machine
    - clustering
-high dimensional visualization
+   - high dimensional visualization
  - Control theory and signal processing.
-model reduction.
-Hidden markov model.
+   - model reduction.
+   - Hidden markov model.
  - Stochastic algorithms.
    - The Metroplis approach to sampling and it's alternatives (Gibbs sampling).
    - global balance (pentalty method)
@@ -47,12 +47,12 @@ Hidden markov model.
    - Image compression techniques (one or more).
    - Compressed sensing.
  - Quantum computing.
- Quantum annealing.
-Quantum error correction.
-Grover and 
-Shor algorithm.
-Quantum encryption.
-Quantum stabilizers.
+   - Quantum annealing.
+   - Quantum error correction.
+   - Grover algorithm. 
+   - Shor algorithm.
+   - Quantum encryption.
+   - Quantum stabilizers.
  - Parallelism.
    - Parallel linear algebra.
    - OpenMP and MPI
@@ -67,7 +67,7 @@ Quantum stabilizers.
    - Network routing.
  - Anything you always wondered how it worked, but never bothered to it look up.
  - Classic CS algorithms
- - Quicksort, Graph theory, ...
- - Cellular atomata
- - Theory of computation (Turing, finite state machine, definition of language, regular expressions)
- - complexity theory
+   - Quicksort, Graph theory, ...
+   - Cellular atomata
+   - Theory of computation (Turing, finite state machine, definition of language, regular expressions)
+   - complexity theory

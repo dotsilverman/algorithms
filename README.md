@@ -6,9 +6,9 @@ Ideas for presentations:
 You may still need to break down some of these into finer catagories.
 
  - Machine learning.
- back propogation
-Boltzmann machine
-clustering
+   - back propogation
+   - Boltzmann machine
+   - clustering
 high dimensional visualization
  - Control theory and signal processing.
 model reduction.

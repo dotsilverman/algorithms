@@ -1,6 +1,6 @@
 Current schedule (3pm, Loomis 322).
 
-|Date | person | subject |
+|Date | Person | Subject |
 |-----|--------|---------|
 |June 1  | Paul| Automatic differentiation.|
 |June 8  | Dima.                           |

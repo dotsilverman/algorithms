@@ -3,11 +3,11 @@ Current schedule (3pm, Loomis 322).
 |Date | Person | Subject |
 |-----|--------|---------|
 |June 1  | Paul| Automatic differentiation.|
-|June 8  | Dima.                           |
-|June 15 | Brian.                          |
-|June 22 | Ben.                            |
-|June 29 | Alex.                           |
-
+|June 8  | Dima. |
+|June 15 | Brian.|
+|June 22 | Ben.|
+|June 29 | Alex. |
+|July 6  | Matt. | Image recognition |
 
 Ideas for presentations:
 

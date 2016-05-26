@@ -15,8 +15,7 @@ header:
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 ---
-It's so easy to do. Just define in front matter your image.
-<!--more-->
+<!-- Page Content -->
 
 ## Presentation Slides
 link [1]

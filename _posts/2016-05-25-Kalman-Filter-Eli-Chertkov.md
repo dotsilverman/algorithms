@@ -18,10 +18,10 @@ header:
 <!-- Page Content -->
 
 ## Presentation Slides
-[link] to pdf [1]
+[link][1] to pdf 
 
 ## Jupyter Notebook
-[link] to notebook [2]
+[link][2] to notebook
 
 
 ### All Header-Styles 

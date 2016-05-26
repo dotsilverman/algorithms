@@ -31,4 +31,4 @@ link [2]
 {% include list-posts tag='control theory' %}
 
 [1]: https://github.com/Paul-St-Young/algorithms/tree/gh-pages/assets/slides/KalmanFilter.pdf
-[2]: 
+[2]: https://github.com/Paul-St-Young/algorithms/tree/gh-pages/assets/slides/KalmanFilter.pdf

@@ -18,10 +18,10 @@ header:
 <!-- Page Content -->
 
 ## Presentation Slides
-link [1]
+[link] to pdf [1]
 
 ## Jupyter Notebook
-link [2]
+[link] to notebook [2]
 
 
 ### All Header-Styles 
@@ -29,5 +29,5 @@ link [2]
 
 {% include list-posts tag='control theory' %}
 
-[1]: https://github.com/Paul-St-Young/algorithms/tree/gh-pages/assets/slides/KalmanFilter.pdf
-[2]: https://github.com/Paul-St-Young/algorithms/tree/gh-pages/assets/slides/KalmanFilter.pdf
+[1]: {{ site.url }}/assets/slides/KalmanFilter.pdf
+[2]: {{ site.url }}/assets/notebooks/KalmanFilter.ipynb

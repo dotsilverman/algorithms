@@ -12,3 +12,8 @@ phlow: # replace this with your info
   email:
   twitter: "@phlow"
 # you can add more authors here
+paul: # replace this with your info
+  name: "Yubo \"Paul\" Yang"
+  siterole: "webmaster, developer"
+  uri: http://publish.illinois.edu/yubo-paul-yang/
+  email: yyang173@illinois.edu

@@ -9,7 +9,7 @@ tags:
     - automatic differentiation
     - numerical method
 image:
-   thumb: "ad-thumb.png"
+   thumb: "ad_thumb.png"
 header:
     image_fullwidth: "TRW_StateEstimation.png"
     caption: from NeoFortran semantics
@@ -30,7 +30,7 @@ header:
 * [Demonstration][5] by Boyana Norris at Argonne with many applications
 * Dedicated [topic website][6] established by Argonne staff
 
-## All Numerical Methods
+### All Numerical Methods
 {: .t60 }
 
 {% include list-posts tag='numerical method' %}

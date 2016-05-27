@@ -1,4 +1,3 @@
-<!-- Front Matter -->
 ---
 layout: page
 title:  "Kalman Filter"

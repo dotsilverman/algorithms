@@ -8,49 +8,83 @@ header:
 permalink: "/roadmap/"
 ---
 
-## Ideas and possible new features
+## Current Schedule
 {: .t30 }
+3pm, Loomis 322
 
-* Get rid of Backstretch.js and solve it with pure CSS
-* [Custom Scrollbar](https://css-tricks.com/custom-scrollbars-in-webkit/)
-* Layout/Template for category-archives
-* Layout/Template for collections
-* Layout/Template for Landingpage
-* Clean bare-bones version of *Feeling Responsive*
-* Even better responsive typography
-* Google AdSense ads
-* More post-formats for blogging like special post formats for links, audio, tweets,...
-* Make a [video-sitemap.xml](https://support.google.com/webmasters/answer/80472?hl=en)
+|Date | Person | Subject |
+|-----|--------|---------|
+|June 1  | Paul| Automatic differentiation|
+|June 8  | Dima |
+|June 15 | Brian|
+|June 22 | Ben|
+|June 29 | Alex |
+|July 6  | Matt | Image recognition |
 
+## Potential Topics
 
-
-## Done
-
-* [<s>Add schema.org Markup for Videos</s>](https://support.google.com/webmasters/answer/2413309?hl=en)
-* [<s>Submit <em>Feeling Responsive</em> to jekyllthemes.org</s>](http://jekyllthemes.org/themes/feeling-responsive/)
-* <s>Use `style` in front matter to inject css-styles into `<head></s>
-* <s>Add include to loop through collections</s>
-* <s>Now with optional caption for header</s>
-* [<s>Refined humans.txt</s>](http://humanstxt.org/)
-* [<s>Produce an introduction video to showcase *Feeling Responsive*</s>](https://www.youtube.com/embed/3b5zCFSmVvU)
-* [<s>Additional header with text</s>]({{ site.url }}/headers/)
-* <s>Added Google Analtics support</s>
-* [<s>Add redirection layout by KanishkKanishk</s>](http://codingtips.kanishkkunal.in/redirects-jekyll-github-pages/)
-* <s>Convert Foundation Sass to use native Jekyll Sass support</s>
-* <s>Optimize HTML and use Schema.org-Attributes › http://schema.org/Article</s>
-* <s>Disqus comments</s>
-* <s>Rework `list-entries.html` › now language ready</s>
-* [<s>Create custom 404.html-webpage</s>](https://help.github.com/articles/custom-404-pages/)
-* [<s>Add simple search box with Google</s>](http://truongtx.me/2012/12/28/jekyll-create-simple-search-box/)
-* <s>Alternative non-landscape header</s>
-* <s>Patterns for header</s>
-* <s>Clean up color scheme and highlighting colors</s>
-* <s>Make theme translation ready</s>
-* [<s>Add draft-templates for new pages/posts</s>](https://github.com/Phlow/feeling-responsive/tree/gh-pages/_drafts)
-* [<s>Step-by-Step-Guide to customize *Feeling Responsive*</s>]({{ site.url }}/getting-started/)
-* [<s>Video-Post-Format to feature videos in a huge way</s>]({{ site.url }}/design/video/)
-* <s>Title and captions for images</s>
-* <s>SEO › Add metadescription to header.html and front matter</s>
-* [<s>Adding Open Graph for Jekyll</s>](https://gist.github.com/pathawks/1406355)
-* [<s>Gallery Post Example</s>]({{ site.url }}/design/gallery/)
-* [<s>Adding pagination</s>](http://jekyllrb.com/docs/pagination/)
+ - Machine learning.
+   - Back propogation.
+   - Boltzmann machine.
+   - Clustering.
+   - High dimensional visualization.
+ - Control theory and signal processing.
+   - Model reduction.
+   - Hidden markov model.
+ - Stochastic algorithms.
+   - The Metropolis approach to sampling and it's alternatives (Gibbs sampling, etc.).
+   - Global balance (pentalty method).
+   - Quasi-random numbers.
+   - Swarm, evolutionary, and genetics algorithms.
+   - Parallel tempering.
+   - Simulated annealing.
+   - Stochastic hill climbing.
+ - Encryption.
+   - Symmetric-key, Public-key (RSA) cryptography
+   - Cryptanalysis (breaking encryption).
+   - Hashing.
+ - Optimzation.
+   - Simplex method.
+   - Quadratic optimization.
+   - Convex optmization.
+   - Compilers (fortan).
+   - Steepest descent, Conjugate gradiant, Quasi-Newton, ....
+   - Noisy optimization.
+ - Linear Algebra.
+   - QR / SVD. principle component analysis
+   - Diagnolization, inversion.
+   - Lanczos
+   - random matrix theory.
+   - FFT (Fast Fourier transforms).
+ - Numerical solutions to differential equations.
+   - Finite difference approach.
+   - Runge-Kutta and family.
+   - PDE solvers (additional problems from multivariate)
+   - Energy conserving or time-reversal invariant versions.
+ - Data compression.
+   - Image compression techniques (one or more).
+   - Compressed sensing.
+ - Quantum computing.
+   - Quantum annealing.
+   - Quantum error correction.
+   - Grover algorithm. 
+   - Shor algorithm.
+   - Quantum encryption.
+   - Quantum stabilizers.
+ - Parallelism.
+   - Parallel linear algebra.
+   - OpenMP and MPI
+   - GPU, Cuda, ...
+ - Computer networks/the internet.
+   - Google search bar, page rank.
+   - The Internet protocal suite.
+   - Packet switching vs. cell-based switching.
+   - Mobile networks.
+   - Error detection and correction, Hamming codes.
+   - Internet security.
+   - Network routing.
+ - Classic CS algorithms
+   - Quicksort, Graph theory, ...
+   - Cellular atomata.
+   - Theory of computation (Turing, finite state machine, definition of language, regular expressions).
+   - complexity theory.

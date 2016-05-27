@@ -14,7 +14,7 @@ widget1:
   text: 'Every week, one of us will learn an algorithm, present and leave a brief summay at this altar.'
 widget2:
   title: "Logistics"
-  url: "{{site.url}}/roadmap/"
+  url: "http://paul-st-young.github.io/algorithms/roadmap/"
   image: wheel.jpg
   text: 'We meet every Wednesday from 3-4pm. This week the meeting will be in Loomis 322.'
 widget3:

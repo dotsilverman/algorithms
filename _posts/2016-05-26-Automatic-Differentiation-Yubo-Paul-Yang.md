@@ -2,7 +2,7 @@
 layout: page
 title:  "Automatic Differentiation"
 subheadline:  "by Yubo \"Paul\" Yang"
-teaser: "Automatic Differentiation exploits the fact that any algebraic function implemented on a computer can be compiled into a long list of elementary operations and elementary functions. Using this observation, exact differentiation can be carried out exactly by exploiting the chain rule."
+teaser: "Automatic Differentiation exploits the fact that any algebraic function implemented on a computer can be compiled into a long list of elementary operations and elementary functions. Using this observation, exact differentiation can be carried out efficiently by exploiting the chain rule."
 categories:
     - algorithm
 tags:

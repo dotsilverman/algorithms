@@ -26,7 +26,9 @@ header:
 
 ## Active Researcher
 [Sebastian F. Walter][7]
+
 | Package | Description | Last Commit |
+| ------- |:----------- | -----------:|
 | algopy  | native python ad, work with numpy | Jun 30, 2015 |
 | pyadolc | wrapper for ADOL-C (C++) | Mar 30, 2016 |
 | pycppad | wrapper for CppAD | July 10, 2014 |

@@ -42,6 +42,7 @@ urlimg: 'https://paul-st-young.github.io/algorithms/images/'
 
 
 # Logo size is 600x80 pixels
+# located in assets/img
 logo: "logo.png"
 
 

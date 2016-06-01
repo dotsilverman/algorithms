@@ -199,8 +199,7 @@ div#notebook {
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython2"><pre><span class="o">%%</span><span class="k">writefile</span> func.py
-v4 = v1 * v2 * v3
-v5 = v4 * (v3 + v1)
+y = x1 + x1*x2
 </pre></div>
 
 </div>
@@ -213,7 +212,7 @@ v5 = v4 * (v3 + v1)
 
 <div class="output_area"><div class="prompt"></div>
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>Overwriting func.py
+<pre>Writing func.py
 </pre>
 </div>
 </div>
@@ -248,7 +247,7 @@ v5 = v4 * (v3 + v1)
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>&quot;Module(body=[Assign(targets=[Name(id=&apos;v4&apos;, ctx=Store())], value=BinOp(left=BinOp(left=Name(id=&apos;v1&apos;, ctx=Load()), op=Mult(), right=Name(id=&apos;v2&apos;, ctx=Load())), op=Mult(), right=Name(id=&apos;v3&apos;, ctx=Load()))), Assign(targets=[Name(id=&apos;v5&apos;, ctx=Store())], value=BinOp(left=Name(id=&apos;v4&apos;, ctx=Load()), op=Mult(), right=BinOp(left=Name(id=&apos;v3&apos;, ctx=Load()), op=Add(), right=Name(id=&apos;v1&apos;, ctx=Load()))))])&quot;</pre>
+<pre>&quot;Module(body=[Assign(targets=[Name(id=&apos;y&apos;, ctx=Store())], value=BinOp(left=Name(id=&apos;x1&apos;, ctx=Load()), op=Add(), right=BinOp(left=Name(id=&apos;x1&apos;, ctx=Load()), op=Mult(), right=Name(id=&apos;x2&apos;, ctx=Load()))))])&quot;</pre>
 </div>
 
 </div>
@@ -256,6 +255,25 @@ v5 = v4 * (v3 + v1)
 </div>
 </div>
 
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<div class="highlight"><pre><span class="n">BinOp</span><span class="p">(</span>
+    <span class="n">left</span><span class="o">=</span><span class="n">Name</span><span class="p">(</span><span class="nb">id</span><span class="o">=</span><span class="s">&#39;x1&#39;</span><span class="p">,</span> <span class="n">ctx</span><span class="o">=</span><span class="n">Load</span><span class="p">()),</span> 
+    <span class="n">op</span><span class="o">=</span><span class="n">Add</span><span class="p">(),</span> 
+    <span class="n">right</span><span class="o">=</span><span class="n">BinOp</span><span class="p">(</span>
+        <span class="n">left</span><span class="o">=</span><span class="n">Name</span><span class="p">(</span><span class="nb">id</span><span class="o">=</span><span class="s">&#39;x1&#39;</span><span class="p">,</span> <span class="n">ctx</span><span class="o">=</span><span class="n">Load</span><span class="p">()),</span>
+        <span class="n">op</span><span class="o">=</span><span class="n">Mult</span><span class="p">(),</span>
+        <span class="n">right</span><span class="o">=</span><span class="n">Name</span><span class="p">(</span><span class="nb">id</span><span class="o">=</span><span class="s">&#39;x2&#39;</span><span class="p">,</span> <span class="n">ctx</span><span class="o">=</span><span class="n">Load</span><span class="p">())</span>
+    <span class="p">)</span>
+<span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
@@ -344,10 +362,8 @@ v5 = v4 * (v3 + v1)
 
 <div class="output_area"><div class="prompt"></div>
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>v4_d = v1 * v2 * v3_d + v1 * v2_d + v1_d * v2 * v3
-v4 = v1 * v2 * v3
-v5_d = v4 * v3_d + v1_d + v4_d * v3 + v1
-v5 = v4 * v3 + v1
+<pre>y_d = x1_d + x1 * x2_d + x1_d * x2
+y = x1 + x1 * x2
 </pre>
 </div>
 </div>
@@ -374,8 +390,7 @@ v5 = v4 * v3 + v1
 
 <div class="output_area"><div class="prompt"></div>
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>v4 = v1 * v2 * v3
-v5 = v4 * (v3 + v1)
+<pre>y = x1 + x1*x2
 </pre>
 </div>
 </div>
@@ -383,6 +398,62 @@ v5 = v4 * (v3 + v1)
 </div>
 </div>
 
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[7]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython2"><pre><span class="n">ast</span><span class="o">.</span><span class="n">dump</span><span class="p">(</span><span class="n">node</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area"><div class="prompt output_prompt">Out[7]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>&quot;Module(body=[Assign(targets=[Name(id=&apos;y_d&apos;)], value=BinOp(left=Name(id=&apos;x1_d&apos;), op=Add(), right=BinOp(left=BinOp(left=Name(id=&apos;x1&apos;, ctx=Load()), op=Mult(), right=Name(id=&apos;x2_d&apos;)), op=Add(), right=BinOp(left=Name(id=&apos;x1_d&apos;), op=Mult(), right=Name(id=&apos;x2&apos;, ctx=Load()))))), Assign(targets=[Name(id=&apos;y&apos;, ctx=Store())], value=BinOp(left=Name(id=&apos;x1&apos;, ctx=Load()), op=Add(), right=BinOp(left=Name(id=&apos;x1&apos;, ctx=Load()), op=Mult(), right=Name(id=&apos;x2&apos;, ctx=Load()))))])&quot;</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<div class="highlight"><pre><span class="n">BinOp</span><span class="p">(</span>
+    <span class="n">left</span><span class="o">=</span><span class="n">Name</span><span class="p">(</span><span class="nb">id</span><span class="o">=</span><span class="s">&#39;x1_d&#39;</span><span class="p">),</span> 
+    <span class="n">op</span><span class="o">=</span><span class="n">Add</span><span class="p">(),</span> 
+    <span class="n">right</span><span class="o">=</span><span class="n">BinOp</span><span class="p">(</span>
+        <span class="n">left</span><span class="o">=</span><span class="n">BinOp</span><span class="p">(</span>
+            <span class="n">left</span><span class="o">=</span><span class="n">Name</span><span class="p">(</span><span class="nb">id</span><span class="o">=</span><span class="s">&#39;x1&#39;</span><span class="p">,</span> <span class="n">ctx</span><span class="o">=</span><span class="n">Load</span><span class="p">()),</span> 
+            <span class="n">op</span><span class="o">=</span><span class="n">Mult</span><span class="p">(),</span> 
+            <span class="n">right</span><span class="o">=</span><span class="n">Name</span><span class="p">(</span><span class="nb">id</span><span class="o">=</span><span class="s">&#39;x2_d&#39;</span><span class="p">)</span>
+        <span class="p">),</span> 
+        <span class="n">op</span><span class="o">=</span><span class="n">Add</span><span class="p">(),</span> 
+        <span class="n">right</span><span class="o">=</span><span class="n">BinOp</span><span class="p">(</span>
+            <span class="n">left</span><span class="o">=</span><span class="n">Name</span><span class="p">(</span><span class="nb">id</span><span class="o">=</span><span class="s">&#39;x1_d&#39;</span><span class="p">),</span> 
+            <span class="n">op</span><span class="o">=</span><span class="n">Mult</span><span class="p">(),</span> 
+            <span class="n">right</span><span class="o">=</span><span class="n">Name</span><span class="p">(</span><span class="nb">id</span><span class="o">=</span><span class="s">&#39;x2&#39;</span><span class="p">,</span> <span class="n">ctx</span><span class="o">=</span><span class="n">Load</span><span class="p">())</span>
+        <span class="p">)</span>
+    <span class="p">)</span>
+<span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
 </div>
     </div>
   </div>

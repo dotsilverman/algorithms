@@ -30,4 +30,4 @@ header:
 {% include list-posts tag='control theory' %}
 
 [1]: {{ site.url }}/assets/slides/KalmanFilter.pdf
-[2]: {{ site.url }}/assets/notebooks/KalmanFilter.ipynb
+[2]: {{ site.url }}/assets/notebooks/KalmanFilter.html

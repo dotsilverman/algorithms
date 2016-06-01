@@ -1,9 +1,17 @@
+## Guidelines for adding your post
+** please pull before you push! **
+  1. Copy one of the posts in the "\_post" folder and rename in the format year-month-day-title.
+  2. Edit your post in markdown format.
+  3. Upload your presentation slides to the "assets/slides" folder. Please provide a link in post.
+  4. Upload your graphics (if any) to the "images" folder, they can be used as the main picture or thumbnail of your post.
+  5. Upload your jupyter notebooks (if any) to the "assets/notebooks" folder.
+
 Current schedule (3pm, Loomis 322).
 
 |Date | Person | Subject |
 |-----|--------|---------|
-|June 1  | Paul| Automatic differentiation|
-|June 8  | Dima |
+|June 1  | Paul| Automatic differentiation |
+|June 8  | Dima | Boltzmann machine |
 |June 15 | Brian|
 |June 22 | Ben|
 |June 29 | Alex |

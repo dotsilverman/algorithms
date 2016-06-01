@@ -9,7 +9,7 @@
 ## Current schedule (3pm, Loomis 322)
 
 |  Date  | Person  | Subject                   |
-|:------:|:--------|:-------------------------:|
+|:-------|:--------|:-------------------------:|
 |May 25  | Eli     | Kalman Filter             |
 |June 1  | Paul    | Automatic differentiation |
 |June 8  | Dima    | Boltzmann machine         |

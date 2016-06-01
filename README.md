@@ -6,7 +6,7 @@
   4. Upload your graphics (if any) to the "images" folder, they can be used as the main picture or thumbnail of your post.
   5. Upload your jupyter notebooks (if any) to the "assets/notebooks" folder.
 
-Current schedule (3pm, Loomis 322).
+## Current schedule (3pm, Loomis 322).
 
 |Date | Person | Subject |
 |-----|--------|---------|

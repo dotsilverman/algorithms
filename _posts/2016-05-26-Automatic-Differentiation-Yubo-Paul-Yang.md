@@ -18,11 +18,13 @@ header:
 <!-- Page Content -->
 
 
-## Presentation Slides
+## Presentation Summary
 [link][1] to pdf 
 
-## Jupyter Notebook
+## Examples
 [link][2] to notebook
+compute graph generation [example][8]
+source code transformation (SCT) [example][9]
 
 ## Active Researcher
 [Sebastian F. Walter][7]
@@ -51,3 +53,5 @@ header:
 [5]: http://science.energy.gov/~/media/ascr/ascac/pdf/meetings/nov10/Norris.pdf
 [6]: http://www.autodiff.org/
 [7]: http://expdesign.iwr.uni-heidelberg.de/people/swalter/index.html
+[8]: {{ site.url }}/assets/notebooks/ad_algopy_reverse.ipynb
+[9]: {{ site.url }}/assets/notebooks/ad_sct.ipynb

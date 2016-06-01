@@ -52,5 +52,5 @@ header:
 [5]: http://science.energy.gov/~/media/ascr/ascac/pdf/meetings/nov10/Norris.pdf
 [6]: http://www.autodiff.org/
 [7]: http://expdesign.iwr.uni-heidelberg.de/people/swalter/index.html
-[8]: {{ site.url }}/assets/notebooks/ad_algopy_reverse.html
+[8]: {{ site.url }}/assets/notebooks/ad_algopy_compute_graph.html
 [9]: {{ site.url }}/assets/notebooks/ad_sct.html

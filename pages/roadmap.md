@@ -2,26 +2,25 @@
 layout: page
 title: "Roadmap"
 subheadline: "ToDo-List &amp; Ideas"
-teaser: "Here are some ideas and features I want to implement in the future."
+teaser: "Here are some ideas we hope to cover/implement in the future."
 header:
    image_fullwidth: "header_roadmap_3.jpg"
 permalink: "/roadmap/"
 ---
 
-## Current Schedule
-{: .t30 }
-3pm, Loomis 322
+## Current schedule (3pm, Loomis 322)
 
-|Date | Person | Subject |
-|-----|--------|---------|
-|June 1  | Paul| Automatic differentiation|
-|June 8  | Dima |
-|June 15 | Brian|
-|June 22 | Ben|
-|June 29 | Alex |
-|July 6  | Matt | Image recognition |
+|  Date  | Person  | Subject                   |
+|:-------|:--------|:-------------------------:|
+|May 25  | Eli     | Kalman Filter             |
+|June 1  | Paul    | Automatic differentiation |
+|June 8  | Dima    | Boltzmann machine         |
+|June 15 | Brian   |                           |
+|June 22 | Ben     |                           | 
+|June 29 | Alex    |                           |
+|July 6  | Matt    | Image recognition         |
 
-## Potential Topics
+## Ideas for presentations
 
  - Machine learning.
    - Back propogation.

@@ -6,18 +6,19 @@
   4. Upload your graphics (if any) to the "images" folder, they can be used as the main picture or thumbnail of your post.
   5. Upload your jupyter notebooks (if any) to the "assets/notebooks" folder.
 
-## Current schedule (3pm, Loomis 322).
+## Current schedule (3pm, Loomis 322)
 
-|Date | Person | Subject |
-|-----|--------|---------|
-|June 1  | Paul| Automatic differentiation |
-|June 8  | Dima | Boltzmann machine |
-|June 15 | Brian|
-|June 22 | Ben|
-|June 29 | Alex |
-|July 6  | Matt | Image recognition |
+|  Date  | Person  | Subject                   |
+|:------:|:--------|:-------------------------:|
+|May 25  | Eli     | Kalman Filter             |
+|June 1  | Paul    | Automatic differentiation |
+|June 8  | Dima    | Boltzmann machine         |
+|June 15 | Brian   |                           |
+|June 22 | Ben     |                           | 
+|June 29 | Alex    |                           |
+|July 6  | Matt    | Image recognition         |
 
-Ideas for presentations:
+## Ideas for presentations
 
 (incomplete list---please add things!)
 

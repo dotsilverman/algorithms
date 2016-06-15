@@ -27,7 +27,7 @@ In [this presentation][1], I present:
 
 
 ## Examples
-My compressed sensing [notebook][2] and related [python library][3].
+My compressed sensing [notebook][2] ([html][4]) and related [python library][3].
 
 ## References
 Original paper (I think? in some sense?):
@@ -50,4 +50,5 @@ Phys. Rev. Lett. **112**, 253602 (2014)
 [1]: {{ site.url }}/assets/slides/compressed_sensing.pdf
 [2]: {{ site.url }}/assets/notebooks/compressed_sensing.ipynb
 [3]: {{ site.url }}/assets/notebooks/compressed_sensing.py
+[4]: {{ site.url }}/assets/notebooks/compressed_sensing.html
 

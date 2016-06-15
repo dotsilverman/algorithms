@@ -10,10 +10,10 @@ tags:
     - signal processing
     - numerical method
 image:
-   thumb: "cat_fourier.eps"
+   thumb: "cat_fourier.pdf"
 header:
     image_fullwidth: "compressed_sensing_lana.jpg"
-    caption: from Phys. Rev. X **2**, 021005 (2012)
+    caption: from Phys. Rev. X 2, 021005 (2012)
 ---
 <!-- Page Content Starts Here -->
 

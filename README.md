@@ -13,7 +13,7 @@
 |May 25  | Eli     | Kalman Filter             |
 |June 1  | Paul    | Automatic differentiation |
 |June 8  | Dima    | Boltzmann machine         |
-|June 15 | Brian   |                           |
+|June 15 | Brian   | Compressed sensing        |
 |June 22 | Ben     |                           | 
 |June 29 | Alex    |                           |
 |July 6  | Matt    | Image recognition         |
@@ -40,6 +40,8 @@ You may still need to break down some of these into finer catagories.
    - Parallel tempering.
    - Simulated annealing.
    - Stochastic hill climbing.
+   - Message passing algorithms.
+   - Bayesian networks.
  - Encryption.
    - Symmetric-key, Public-key (RSA) cryptography
    - Cryptanalysis (breaking encryption).

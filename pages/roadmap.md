@@ -15,7 +15,7 @@ permalink: "/roadmap/"
 |May 25  | Eli     | Kalman Filter             |
 |June 1  | Paul    | Automatic differentiation |
 |June 8  | Dima    | Boltzmann machine         |
-|June 15 | Brian   |                           |
+|June 15 | Brian   | Compressed sensing        |
 |June 22 | Ben     |                           | 
 |June 29 | Alex    |                           |
 |July 6  | Matt    | Image recognition         |
@@ -38,6 +38,8 @@ permalink: "/roadmap/"
    - Parallel tempering.
    - Simulated annealing.
    - Stochastic hill climbing.
+   - Bayesian networks.
+   - Belief propogation.
  - Encryption.
    - Symmetric-key, Public-key (RSA) cryptography
    - Cryptanalysis (breaking encryption).
@@ -62,7 +64,8 @@ permalink: "/roadmap/"
    - Energy conserving or time-reversal invariant versions.
  - Data compression.
    - Image compression techniques (one or more).
-   - Compressed sensing.
+   - Compressed sensing (l-1 technique).
+   - Compressed sensing (probabilistic approach and connections to stat mech).
  - Quantum computing.
    - Quantum annealing.
    - Quantum error correction.

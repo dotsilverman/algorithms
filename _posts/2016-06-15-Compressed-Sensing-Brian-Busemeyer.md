@@ -18,8 +18,12 @@ header:
 <!-- Page Content Starts Here -->
 
 ## Presentation Summary
-Compressed sensing is a way of extracting a full signal out of a sparse sampling. 
-It's only requirement is that the signal has a sparse representation in some basis, which is actually true for most interesting signals that we encounter. [link][1]
+In [this presentation][1], I present:
+ - the basic problem this solves.
+ - why it makes sense to optimize for scarsity.
+ - results from my own implementation of the l-1 minimization approach.
+ - an exploration of the parameter space for which this method is successful.
+ - recent developments in the field, and it's connection to physics.
 
 
 ## Examples

@@ -3,6 +3,7 @@ layout: page
 title:  "Compressed sensing"
 subheadline:  "by Brian Busemeyer"
 Description: "Compressed sensing is a way of extracting a full signal out of a sparse sampling. It's only requirement is that the signal has a sparse representation in some basis, which is actually true for most interesting signals that we encounter."
+teaser: "Compressed sensing is a way of extracting a full signal out of a sparse sampling. It's only requirement is that the signal has a sparse representation in some basis, which is actually true for most interesting signals that we encounter."
 
 categories:
     - algorithm

@@ -19,6 +19,7 @@ header:
 
 ## Presentation Summary
 In [this presentation][1], I present:
+
   * the basic problem this solves.
   * why it makes sense to optimize for scarsity.
   * results from my own implementation of the l-1 minimization approach.

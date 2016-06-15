@@ -27,10 +27,15 @@ It's only requirement is that the signal has a sparse representation in some bas
 
 ## References
 Original paper (I think? in some sense?):
-IEEE Trans. Inf. Theory **52**, 1289 (2006)
+
+ IEEE Trans. Inf. Theory **52**, 1289 (2006)
+
 Probabilistic seeding: 
+
 Phys. Rev. X **2**, 021005 (2012)
+
 Simultaneous measurement of physical observables.: 
+
 Phys. Rev. Lett. **112**, 253602 (2014)
 
 ### All signal processing.

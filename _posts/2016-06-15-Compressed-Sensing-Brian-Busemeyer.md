@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Boltzmann Machines"
-subheadline:  "by Dima Kochkov"
+title:  "Compressed sensing"
+subheadline:  "by Brian Busemeyer"
 Description: "Compressed sensing is a way of extracting a full signal out of a sparse sampling. It's only requirement is that the signal has a sparse representation in some basis, which is actually true for most interesting signals that we encounter."
 
 categories:
@@ -10,7 +10,7 @@ tags:
     - signal processing
     - numerical method
 image:
-   thumb: "compressed_sensing.jpg"
+   thumb: "cat_fourier.eps"
 header:
     image_fullwidth: "compressed_sensing_lana.jpg"
     caption: from Phys. Rev. X **2**, 021005 (2012)

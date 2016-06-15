@@ -19,15 +19,15 @@ header:
 
 ## Presentation Summary
 In [this presentation][1], I present:
- - the basic problem this solves.
- - why it makes sense to optimize for scarsity.
- - results from my own implementation of the l-1 minimization approach.
- - an exploration of the parameter space for which this method is successful.
- - recent developments in the field, and it's connection to physics.
+* the basic problem this solves.
+* why it makes sense to optimize for scarsity.
+* results from my own implementation of the l-1 minimization approach.
+* an exploration of the parameter space for which this method is successful.
+* recent developments in the field, and it's connection to physics.
 
 
 ## Examples
-* My compressed sensing [notebook][2] and related [python library][3].
+My compressed sensing [notebook][2] and related [python library][3].
 
 ## References
 Original paper (I think? in some sense?):

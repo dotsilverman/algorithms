@@ -2,15 +2,16 @@
 layout: page
 title:  "Boltzmann Machines"
 subheadline:  "by Dima Kochkov"
-Description: "Boltzmann Machines represent a class of Neural Networks that can be used for unsupervised learning. Inspired by ideas from physics and neuroscience these nets allow a simple, genuine learning rule. The learning is based on minimization of Kullback–Leibler divergence between learned probability distribution and the dataset."
+teaser: "Boltzmann Machines represent a class of Neural Networks that can be used for unsupervised learning. Inspired by ideas from physics and neuroscience these nets allow a simple, genuine learning rule. The learning is based on minimization of Kullback–Leibler divergence between learned probability distribution and the dataset."
 
 categories:
     - algorithm
 tags:
-    - Machine learning
-    - Energy based models
-    - Unsupervised learning
-
+    - machine learning
+    - energy based models
+    - unsupervised learning
+image:
+   thumb: "rbm_thumb.png"
 header:
     image_fullwidth: "MachineLearningTheme.png"
 ---
@@ -32,7 +33,7 @@ header:
 ### All Machine learning
 {: .t60 }
 
-{% include list-posts tag='Machine learning' %}
+{% include list-posts tag='machine learning' %}
 
 [1]: {{ site.url }}/assets/slides/BoltzmannMachines.pdf
 [3]: https://class.coursera.org/neuralnets-2012-001/lecture

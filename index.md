@@ -19,7 +19,7 @@ widget2:
   text: 'We meet every Wednesday from 3-4pm. This week the meeting will be in Loomis 322.'
 widget3:
   title: "Algorithms"
-  url: 'http://paul-st-young.github.io/algorithms/info/'
+  url: 'http://paul-st-young.github.io/algorithms/blog/archive'
   image: cyborg.jpg
   text: 'We will archive covered algorithms here, as well as post potentially interesting algorithms to be covered.'
 #

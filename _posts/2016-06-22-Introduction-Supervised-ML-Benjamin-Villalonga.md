@@ -2,7 +2,7 @@
 layout: page
 title:  "Introduction to Supervised Machine Learning"
 subheadline:  "by Benjamin Villalonga Correa"
-teaser: "With Supervised Machine Learning techniques we can train a model to "
+teaser: "With Supervised Machine Learning techniques we can train a model to be able to recognize and classify inputs such as handritten digits, human faces, objects in a picture or sports teams with high chances of winning a game. One of the most used strategies for doing so is the use of artificial neural networks."
 
 categories:
     - algorithm
@@ -12,46 +12,39 @@ tags:
     - supervised machine learning
     - neural networks
 image:
-   thumb: "ad_thumb.png"
+   thumb: "ML.jpeg"
 header:
-    image_fullwidth: "compressed_sensing_lana.jpg"
-    caption: from Phys. Rev. X 2, 021005 (2012)
+    image_fullwidth: "neural_network.jpg"
 ---
 <!-- Page Content Starts Here -->
 
 ## Presentation Summary
 In [this presentation][1], I present:
 
-  * the basic problem this solves.
-  * why it makes sense to optimize for scarsity.
-  * results from my own implementation of the l-1 minimization approach.
-  * an exploration of the parameter space for which this method is successful.
-  * recent developments in the field, and it's connection to physics.
+  * the basic problem setup for supervised machine learning.
+  * the classical example of MNIST.
+  * a motivation for using neural networks.
+  * some easy to code results.
+  * some intuition on what a neural network is actually doing.
 
 
 ## Examples
-My compressed sensing [notebook][2] ([html][4]) and related [python library][3].
+  * Excelent tutorials for examples are given by the TensorFlow [website][2] team.
+  * A great (online and free) book on neural networks and deep learning is [Nielsen's textbook][3].
 
 ## References
-Original paper (I think? in some sense?):
+  * [Nielsen's book][4].
+  * [Colah's blog][5] has good posts on several topics.
+  * [tensorflow.org][2] for a comprehensive library for Python with good tutorials.
 
- IEEE Trans. Inf. Theory **52**, 1289 (2006)
-
-Probabilistic seeding: 
-
-Phys. Rev. X **2**, 021005 (2012)
-
-Simultaneous measurement of physical observables.: 
-
-Phys. Rev. Lett. **112**, 253602 (2014)
-
-### All signal processing.
+### All Machine Learning.
 {: .t60 }
 
-{% include list-posts tag='signal processing' %}
+{% include list-posts tag='machine learning' %}
 
-[1]: {{ site.url }}/assets/slides/compressed_sensing.pdf
-[2]: {{ site.url }}/assets/notebooks/compressed_sensing.ipynb
-[3]: {{ site.url }}/assets/notebooks/compressed_sensing.py
-[4]: {{ site.url }}/assets/notebooks/compressed_sensing.html
+[1]: {{ site.url }}/assets/slides/Intro_supervised_ml.pdf
+[2]: https://www.tensorflow.org
+[3]: http://neuralnetworksanddeeplearning.com/chap1.html
+[4]: http://neuralnetworksanddeeplearning.com
+[5]: http://colah.github.io
 

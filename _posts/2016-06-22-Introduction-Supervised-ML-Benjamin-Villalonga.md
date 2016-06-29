@@ -19,7 +19,7 @@ header:
 <!-- Page Content Starts Here -->
 
 ## Presentation Summary
-In [this presentation][1], I present:
+In [this presentation][1], I talk about:
 
   * the basic problem setup for supervised machine learning.
   * the classical example of MNIST.

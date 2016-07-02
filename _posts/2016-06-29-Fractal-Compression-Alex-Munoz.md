@@ -21,8 +21,10 @@ In my presentation, I talk about:
   * how the algorithm stores information.
   * the implementation of the algorithm.
   * possible applications.
+  
 ## Examples
   * I am going to put up something a bit more pedagogical soon.
+ 
 ## References
   * I will move references from my presentation to here soon!
 

@@ -14,9 +14,9 @@
 |June 1  | Paul    | Automatic Differentiation |
 |June 8  | Dima    | Boltzmann Machine         |
 |June 15 | Brian   | Compressed Sensing        |
-|June 22 | Ben     |                           | 
+|June 22 | Ben     | Machine Learning          | 
 |June 29 | Alex    | Fractal Compression       |
-|July 6  | Matt    | Image Recognition         |
+|July 6  | Matt    | Adaptive Boosting         |
 
 ## Ideas for presentations
 

@@ -23,7 +23,7 @@ In my presentation, I talk about:
   * possible applications.
   
 ## Examples
-  * I am going to put up something a bit more pedagogical soon.
+  * Basic example available under assets.
  
 ## References
   * I will move references from my presentation to here soon!

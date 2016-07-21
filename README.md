@@ -10,16 +10,6 @@
 
 For recent schedule, see [Logistics](http://paul-st-young.github.io/algorithms/roadmap/)
 
-|  Date  | Person  | Subject                   |
-|:-------|:--------|:-------------------------:|
-|May 25  | Eli     | Kalman Filter             |
-|June 1  | Paul    | Automatic Differentiation |
-|June 8  | Dima    | Boltzmann Machine         |
-|June 15 | Brian   | Compressed Sensing        |
-|June 22 | Ben     | Machine Learning          | 
-|June 29 | Alex    | Fractal Compression       |
-|July 6  | Matt    | Adaptive Boosting         |
-
 ## Ideas for presentations
 
-Please see logistics page!
+Please see [Logistics](http://paul-st-young.github.io/algorithms/roadmap/) page!

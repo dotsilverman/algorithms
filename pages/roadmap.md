@@ -16,9 +16,13 @@ permalink: "/roadmap/"
 |June 1  | Paul    | Automatic Differentiation |
 |June 8  | Dima    | Boltzmann Machine         |
 |June 15 | Brian   | Compressed Sensing        |
-|June 22 | Ben     | Machine Learning          | 
+|June 22 | Benji   | Machine Learning          | 
 |June 29 | Alex    | Fractal Compression       |
 |July 6  | Matt    | Adaptive Boosting         |
+|July 13 | Will    | Finding Eigenvalues       |
+|July 20 | Nick    | Theory of computation     |
+|July 28 | Ben     | N-body problem?           |
+|Aug. 4  | Jyoti   | ?                         |
 
 ## Ideas for presentations
 

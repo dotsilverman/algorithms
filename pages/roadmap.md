@@ -21,8 +21,8 @@ permalink: "/roadmap/"
 |July 6  | Matt    | Adaptive Boosting         |
 |July 13 | Will    | Finding Eigenvalues       |
 |July 20 | Nick    | Theory of computation     |
-|Aug. 4  | Jyoti   | ?                         |
-|July 28 | Ben     | N-body problem?           |
+|July 28 | Jyoti   | ?                         |
+|Aug. 4  | Ben     | N-body problem?           |
 
 ## Ideas for presentations
 

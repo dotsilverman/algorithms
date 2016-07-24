@@ -9,7 +9,6 @@ permalink: "/roadmap/"
 ---
 
 ## Current schedule (3pm, Loomis 322)
-
 |  Date  | Person  | Subject                   |
 |:-------|:--------|:-------------------------:|
 |May 25  | Eli     | Kalman Filter             |
@@ -23,17 +22,17 @@ permalink: "/roadmap/"
 |July 20 | Nick    | Theory of computation     |
 |July 28 | Jyoti   | ?                         |
 |Aug. 4  | Ben     | N-body problem?           |
-|Aug. 10 | Brian   |
-|Aug. 17 | Eli     |
-|Aug. 24 | Dima    |
-|Aug. 31 | Li      |
-|Sep. 7  | Matt    |
-|Sep. 14 | Paul    |
-|Sep. 21 | Nick    |
-|Sep. 28 | Benji   |
-|Oct. 5  | Will    |
-|Oct. 12 | Kiel    |
-|Oct. 19 | Alex    |
+|Aug. 10 | Brian   |                           |
+|Aug. 17 | Eli     |                           |
+|Aug. 24 | Dima    |                           |
+|Aug. 31 | Li      |                           |
+|Sep. 7  | Matt    |                           |
+|Sep. 14 | Paul    |                           |
+|Sep. 21 | Nick    |                           |
+|Sep. 28 | Benji   |                           |
+|Oct. 5  | Will    |                           |
+|Oct. 12 | Kiel    |                           |
+|Oct. 19 | Alex    |                           |
 =======
 
 >>>>>>> 6cfb165daf40b39587a11d40bbb6217736b87535

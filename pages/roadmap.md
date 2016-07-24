@@ -33,9 +33,7 @@ permalink: "/roadmap/"
 |Oct. 5  | Will    |                           |
 |Oct. 12 | Kiel    |                           |
 |Oct. 19 | Alex    |                           |
-=======
 
->>>>>>> 6cfb165daf40b39587a11d40bbb6217736b87535
 ## Ideas for presentations
 
  - Machine learning.

@@ -9,6 +9,7 @@ permalink: "/roadmap/"
 ---
 
 ## Current schedule (3pm, Loomis 322)
+
 |  Date  | Person  | Subject                   |
 |:-------|:--------|:-------------------------:|
 |May 25  | Eli     | Kalman Filter             |

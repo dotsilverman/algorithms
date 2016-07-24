@@ -19,7 +19,17 @@ permalink: "/roadmap/"
 |June 22 | Ben     |                           | 
 |June 29 | Alex    |                           |
 |July 6  | Matt    | Image recognition         |
-
+|Aug. 10 | Brian   |
+|Aug. 17 | Eli     |
+|Aug. 24 | Dima    |
+|Aug. 31 | Li      |
+|Sep. 7  | Matt    |
+|Sep. 14 | Paul    |
+|Sep. 21 | Nick    |
+|Sep. 28 | Benji   |
+|Oct. 5  | Will    |
+|Oct. 12 | Kiel    |
+|Oct. 19 | Alex    |
 ## Ideas for presentations
 
  - Machine learning.

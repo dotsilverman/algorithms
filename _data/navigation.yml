@@ -5,9 +5,6 @@
 - title: Altar
   url: "/blog/"
   side: left
-  dropdown:
-  - title: "Archive"
-    url: "/blog/archive/"
 
 - title: Getting Started
   url: "/getting-started/"

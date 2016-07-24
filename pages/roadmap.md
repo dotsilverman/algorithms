@@ -13,12 +13,16 @@ permalink: "/roadmap/"
 |  Date  | Person  | Subject                   |
 |:-------|:--------|:-------------------------:|
 |May 25  | Eli     | Kalman Filter             |
-|June 1  | Paul    | Automatic differentiation |
-|June 8  | Dima    | Boltzmann machine         |
-|June 15 | Brian   | Compressed sensing        |
-|June 22 | Ben     |                           | 
-|June 29 | Alex    |                           |
-|July 6  | Matt    | Image recognition         |
+|June 1  | Paul    | Automatic Differentiation |
+|June 8  | Dima    | Boltzmann Machine         |
+|June 15 | Brian   | Compressed Sensing        |
+|June 22 | Benji   | Machine Learning          | 
+|June 29 | Alex    | Fractal Compression       |
+|July 6  | Matt    | Adaptive Boosting         |
+|July 13 | Will    | Finding Eigenvalues       |
+|July 20 | Nick    | Theory of computation     |
+|July 28 | Jyoti   | ?                         |
+|Aug. 4  | Ben     | N-body problem?           |
 |Aug. 10 | Brian   |
 |Aug. 17 | Eli     |
 |Aug. 24 | Dima    |
@@ -30,6 +34,9 @@ permalink: "/roadmap/"
 |Oct. 5  | Will    |
 |Oct. 12 | Kiel    |
 |Oct. 19 | Alex    |
+=======
+
+>>>>>>> 6cfb165daf40b39587a11d40bbb6217736b87535
 ## Ideas for presentations
 
  - Machine learning.

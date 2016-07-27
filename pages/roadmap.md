@@ -39,7 +39,7 @@ permalink: "/roadmap/"
 
  - Machine learning.
    - Back propogation.
-   - Boltzmann machine.
+   - ~~Boltzmann machine.~~
    - Clustering.
    - High dimensional visualization.
  - Control theory and signal processing.
@@ -67,9 +67,9 @@ permalink: "/roadmap/"
    - Steepest descent, Conjugate gradiant, Quasi-Newton, ....
    - Noisy optimization.
  - Linear Algebra.
-   - QR / SVD. principle component analysis
+   - ~~QR / SVD. principle component analysis~~
    - Diagnolization, inversion.
-   - Lanczos
+   - ~~Lanczos~~
    - random matrix theory.
    - FFT (Fast Fourier transforms).
  - Numerical solutions to differential equations.
@@ -79,7 +79,7 @@ permalink: "/roadmap/"
    - Energy conserving or time-reversal invariant versions.
  - Data compression.
    - Image compression techniques (one or more).
-   - Compressed sensing (l-1 technique).
+   - ~~Compressed sensing (l-1 technique).~~
    - Compressed sensing (probabilistic approach and connections to stat mech).
  - Quantum computing.
    - Quantum annealing.
@@ -103,5 +103,5 @@ permalink: "/roadmap/"
  - Classic CS algorithms
    - Quicksort, Graph theory, ...
    - Cellular atomata.
-   - Theory of computation (Turing, finite state machine, definition of language, regular expressions).
-   - complexity theory.
+   - ~~Theory of computation~~ (Turing, finite state machine, definition of language, regular expressions).
+   - ~~complexity theory.~~

@@ -68,7 +68,7 @@ permalink: "/roadmap/"
    - Noisy optimization.
  - Linear Algebra.
    - ~~QR / SVD. principle component analysis~~
-   - Diagnolization, inversion.
+   - ~~Diagnolization~~, inversion.
    - ~~Lanczos~~
    - random matrix theory.
    - FFT (Fast Fourier transforms).

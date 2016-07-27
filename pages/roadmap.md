@@ -22,7 +22,7 @@ permalink: "/roadmap/"
 |July 13 | Will    | Finding Eigenvalues       |
 |July 20 | Nick    | Theory of computation     |
 |July 28 | Jyoti   | Quantum algorithms        |
-|Aug. 4  | Ben     | N-body problem?           |
+|Aug. 4  | Ben     | Barnes-Hut Algorithm      |
 |Aug. 10 | Brian   |                           |
 |Aug. 17 | Eli     |                           |
 |Aug. 24 | Dima    |                           |

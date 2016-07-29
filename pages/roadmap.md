@@ -84,7 +84,7 @@ permalink: "/roadmap/"
  - Quantum computing.
    - Quantum annealing.
    - Quantum error correction.
-   - Grover algorithm. 
+   - ~~Grover algorithm~~. 
    - Shor algorithm.
    - Quantum encryption.
    - Quantum stabilizers.

@@ -23,7 +23,7 @@ permalink: "/roadmap/"
 |July 20 | Nick    | Theory of computation     |
 |July 28 | Jyoti   | Quantum algorithms        |
 |Aug. 4  | Ben     | Barnes-Hut Algorithm      |
-|Aug. 10 | Brian   |                           |
+|Aug. 10 | Brian   | Genetic Algorithms        |
 |Aug. 17 | Eli     |                           |
 |Aug. 24 | Dima    |                           |
 |Aug. 31 | Li      |                           |
@@ -49,7 +49,7 @@ permalink: "/roadmap/"
    - The Metropolis approach to sampling and it's alternatives (Gibbs sampling, etc.).
    - Global balance (pentalty method).
    - Quasi-random numbers.
-   - Swarm, evolutionary, and genetics algorithms.
+   - ~~Swarm, evolutionary, and genetics algorithms.~~
    - Parallel tempering.
    - Simulated annealing.
    - Stochastic hill climbing.

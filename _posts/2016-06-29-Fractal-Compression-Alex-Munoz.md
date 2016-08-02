@@ -4,6 +4,12 @@ title:  "Fractal Compression"
 subheadline:  "by Alex Munoz"
 teaser: "Fractal compression uses self-similarity in images and functions to reduce the redundant content. This technique takes redundancies and stores them as affine transformations with a set of coordinates."
 
+image:
+   thumb: "SierpinskiDreieck.png"
+header:
+    image_fullwidth: "Mandelbrot.jpg"
+    caption: from Wikipedia
+
 categories:
     - algorithm
 tags:

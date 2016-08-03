@@ -10,30 +10,30 @@ permalink: "/roadmap/"
 
 ## Current schedule (3pm, Loomis 322)
 
-|  Date  | Person  | Subject                   |
-|:-------|:--------|:-------------------------:|
-|May 25  | Eli     | Kalman Filter             |
-|June 1  | Paul    | Automatic Differentiation |
-|June 8  | Dima    | Boltzmann Machine         |
-|June 15 | Brian   | Compressed Sensing        |
-|June 22 | Benji   | Machine Learning          | 
-|June 29 | Alex    | Fractal Compression       |
-|July 6  | Matt    | Adaptive Boosting         |
-|July 13 | Will    | Finding Eigenvalues       |
-|July 20 | Nick    | Theory of computation     |
-|July 28 | Jyoti   | Quantum algorithms        |
-|Aug. 4  | Ben     | Barnes-Hut Algorithm      |
-|Aug. 10 | Brian   | Genetic Algorithms        |
-|Aug. 17 | Eli     |                           |
-|Aug. 24 | Dima    |                           |
-|Aug. 31 | Li      |                           |
-|Sep. 7  | Matt    |                           |
-|Sep. 14 | Paul    |                           |
-|Sep. 21 | Nick    |                           |
-|Sep. 28 | Benji   |                           |
-|Oct. 5  | Will    |                           |
-|Oct. 12 | Kiel    |                           |
-|Oct. 19 | Alex    |                           |
+|  Date  | Person  | Subject                     |
+|:-------|:--------|:---------------------------:|
+|May 25  | Eli     | Kalman Filter               |
+|June 1  | Paul    | Automatic Differentiation   |
+|June 8  | Dima    | Boltzmann Machine           |
+|June 15 | Brian   | Compressed Sensing          |
+|June 22 | Benji   | Machine Learning            | 
+|June 29 | Alex    | Fractal Compression         |
+|July 6  | Matt    | Adaptive Boosting           |
+|July 13 | Will    | Finding Eigenvalues         |
+|July 20 | Nick    | Theory of computation       |
+|July 28 | Jyoti   | Quantum algorithms          |
+|Aug. 4  | Ben     | Barnes-Hut Algorithm        |
+|Aug. 10 | Brian   | Genetic Algorithms          |
+|Aug. 17 | Eli     |                             |
+|Aug. 24 | Dima    |                             |
+|Aug. 31 | Paul    | Particle Swarm Optimization |
+|Sep. 7  | Matt    |                             |
+|Sep. 14 | Li      |                             |
+|Sep. 21 | Nick    |                             |
+|Sep. 28 | Benji   |                             |
+|Oct. 5  | Will    |                             |
+|Oct. 12 | Kiel    |                             |
+|Oct. 19 | Alex    |                             |
 
 ## Ideas for presentations
 

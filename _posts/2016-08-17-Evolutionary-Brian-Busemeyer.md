@@ -12,7 +12,7 @@ categories:
 tags:
     - optimization
 image:
-   thumb: "classic.png"
+   thumb: "classic.jpg"
 header:
     image_fullwidth: "evolution.jpg"
     caption: Coders are the most evolved life forms.

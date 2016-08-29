@@ -1,8 +1,11 @@
 ---
 layout: page
-title:  "Compressed sensing"
+title:  "Evolutionary algorithms"
 subheadline:  "by Brian Busemeyer"
-teaser: "Compressed sensing is a way of extracting a full signal out of a sparse sampling. It's only requirement is that the signal has a sparse representation in some basis, which is actually true for most interesting signals that we encounter."
+teaser: "Evolutionary or genetic algorithms are optimization algorithms that are
+inspired by the evolution of life. They work very well by identifying the good
+parts of different suboptimal solutions, and attempting to combine them to make
+newer better solutions."
 
 categories:
     - algorithm

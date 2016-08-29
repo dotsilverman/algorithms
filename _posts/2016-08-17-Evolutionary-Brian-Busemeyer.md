@@ -3,7 +3,7 @@ layout: page
 title:  "Evolutionary algorithms"
 subheadline:  "by Brian Busemeyer"
 teaser: "Evolutionary or genetic algorithms are optimization algorithms that are
-inspired by the evolution of life. They work very well by identifying the good
+inspired by the evolution of life. They work by identifying the good
 parts of different suboptimal solutions, and attempting to combine them to make
 newer better solutions."
 

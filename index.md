@@ -16,7 +16,7 @@ widget2:
   title: "Logistics"
   url: "http://paul-st-young.github.io/algorithms/roadmap/"
   image: wheel.jpg
-  text: 'We meet every Wednesday from 3-4pm. This week the meeting will be in Loomis 322.'
+  text: 'We meet every Friday from 4:30-5:30 pm in Loomis 322.'
 widget3:
   title: "Algorithms"
   url: 'http://paul-st-young.github.io/algorithms/blog/archive'

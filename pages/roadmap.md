@@ -8,7 +8,7 @@ header:
 permalink: "/roadmap/"
 ---
 
-## Current schedule (3pm, Loomis 322)
+## Current schedule (4:30 pm, Loomis 322)
 
 |  Date  | Person  | Subject                     |
 |:-------|:--------|:---------------------------:|

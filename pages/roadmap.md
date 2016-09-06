@@ -24,16 +24,16 @@ permalink: "/roadmap/"
 |July 28 | Jyoti   | Quantum algorithms          |
 |Aug. 4  | Ben     | Barnes-Hut Algorithm        |
 |Aug. 10 | Brian   | Genetic Algorithms          |
-|Aug. 17 | Eli     |                             |
-|Aug. 24 | Dima    |                             |
-|Aug. 31 | Paul    | Particle Swarm Optimization |
-|Sep. 7  | Matt    |                             |
-|Sep. 14 | Li      |                             |
-|Sep. 21 | Nick    |                             |
-|Sep. 28 | Benji   |                             |
-|Oct. 5  | Will    |                             |
-|Oct. 12 | Kiel    |                             |
-|Oct. 19 | Alex    |                             |
+|Aug. 17 | Eli     | Error Correcting Codes      |
+|Sep. 2  | Dima    | Fast Fourier Transform      |
+|Sep. 9  | Paul    | Particle Swarm Optimization |
+|Sep. 16 | Matt    |                             |
+|Sep. 23 | Li      |                             |
+|Sep. 30 | Nick    |                             |
+|Oct. 9  | Benji   |                             |
+|Oct. 16 | Will    |                             |
+|Oct. 23 | Kiel    |                             |
+|Oct. 30 | Alex    |                             |
 
 ## Ideas for presentations
 

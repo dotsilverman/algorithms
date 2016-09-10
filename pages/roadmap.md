@@ -28,12 +28,12 @@ permalink: "/roadmap/"
 |Sep. 2  | Dima    | Fast Fourier Transform      |
 |Sep. 9  | Paul    | Particle Swarm Optimization |
 |Sep. 16 | Matt    |                             |
-|Sep. 23 | Li      |                             |
-|Sep. 30 | Nick    |                             |
-|Oct. 9  | Benji   |                             |
-|Oct. 16 | Will    |                             |
-|Oct. 23 | Kiel    |                             |
-|Oct. 30 | Alex    |                             |
+|Sep. 23 | Ben     |                             |
+|Sep. 30 | Kiel    |                             |
+|Oct. 9  | WooYoung|                             |
+|Oct. 16 | Dot     |                             |
+|Oct. 23 | Jyoti   |                             |
+|Oct. 30 | Xiongjie|                             |
 
 ## Ideas for presentations
 
@@ -46,10 +46,12 @@ permalink: "/roadmap/"
    - Model reduction.
    - Hidden markov model.
  - Stochastic algorithms.
-   - The Metropolis approach to sampling and it's alternatives (Gibbs sampling, etc.).
+   - The Metropolis approach to sampling and alternatives (Gibbs sampling, etc.).
    - Global balance (pentalty method).
    - Quasi-random numbers.
-   - ~~Swarm, evolutionary, and genetics algorithms.~~
+   - ~~Evolutionary, and genetics algorithms.~~
+   - ~~Particle Swarm Optimization~~
+   - Ant Colony Optimization
    - Parallel tempering.
    - Simulated annealing.
    - Stochastic hill climbing.

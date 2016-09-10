@@ -30,10 +30,10 @@ permalink: "/roadmap/"
 |Sep. 16 | Matt    |                             |
 |Sep. 23 | Ben     |                             |
 |Sep. 30 | Kiel    |                             |
-|Oct. 9  | WooYoung|                             |
-|Oct. 16 | Dot     |                             |
-|Oct. 23 | Jyoti   |                             |
-|Oct. 30 | Xiongjie|                             |
+|Oct. 7  | WooYoung|                             |
+|Oct. 14 | Dot     |                             |
+|Oct. 21 | Jyoti   |                             |
+|Oct. 28 | Xiongjie|                             |
 
 ## Ideas for presentations
 

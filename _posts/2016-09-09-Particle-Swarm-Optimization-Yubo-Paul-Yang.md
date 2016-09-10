@@ -11,7 +11,7 @@ tags:
 image:
    thumb: "yolo.png"
 header:
-    image_fullwidth: "pso_steps.jpg"
+    image_fullwidth: "pso_steps.png"
     caption: PSO optimization of the 2D Rastrigin function.
 ---
 <!-- Page Content Starts Here -->
@@ -22,7 +22,6 @@ In [this presentation][1], I present:
   * Motivation for PSO.
   * Show an example where the algorithm works well. (2D Rastrigin)
   * Modification needed to apply it to the bin packing problem.
-
 
 ## Examples
 My pso example to minimize the 2D Rastrigin function [notebook][2] ([html][3]) and related [python library][4].

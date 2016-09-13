@@ -27,9 +27,9 @@ permalink: "/roadmap/"
 |Aug. 17 | Eli     | Error Correcting Codes      |
 |Sep. 2  | Dima    | Fast Fourier Transform      |
 |Sep. 9  | Paul    | Particle Swarm Optimization |
-|Sep. 16 | Matt    |                             |
-|Sep. 23 | Ben     |                             |
-|Sep. 30 | Kiel    |                             |
+|Sep. 16 | Matt    | Image Recognition           |
+|Sep. 23 | Kiel    | Numerical Integrators       |
+|Sep. 30 | Ben     | Shors algorithm             |
 |Oct. 7  | WooYoung|                             |
 |Oct. 14 | Dot     |                             |
 |Oct. 21 | Jyoti   |                             |

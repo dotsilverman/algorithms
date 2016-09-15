@@ -27,7 +27,7 @@ permalink: "/roadmap/"
 |Aug. 17 | Eli     | Error Correcting Codes      |
 |Sep. 2  | Dima    | Fast Fourier Transform      |
 |Sep. 9  | Paul    | Particle Swarm Optimization |
-|Sep. 16 | Matt    | Image Recognition           |
+|Sep. 16 | Matt    | Predict Seizures with EEG   |
 |Sep. 23 | Kiel    | Numerical Integrators       |
 |Sep. 30 | Ben     | Shors algorithm             |
 |Oct. 7  | WooYoung|                             |

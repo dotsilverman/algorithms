@@ -8,7 +8,7 @@ categories:
 tags:
     - filter
     - control theory
-    - error correction
+    - signal processing
 image:
    thumb: "unsplash_brooklyn-bridge-thumb.jpg"
 header:
@@ -25,10 +25,10 @@ header:
 [link][2] to notebook
 
 
-###  All Control Theory
+###  All Signal Processing
 {: .t60 }
 
-{% include list-posts tag='control theory' %}
+{% include list-posts tag='signal processing' %}
 
 [1]: {{ site.url }}/assets/slides/KalmanFilter.pdf
 [2]: {{ site.url }}/assets/notebooks/KalmanFilter.html

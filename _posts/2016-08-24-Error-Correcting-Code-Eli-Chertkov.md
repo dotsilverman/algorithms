@@ -8,6 +8,7 @@ categories:
     - algorithm
 tags:
     - error correction
+    - signal processing
 image:
    thumb: "hamming_cube.png"
 header:
@@ -25,9 +26,9 @@ In [this presentation][1], I present:
 
 ## References
 
-### All 
+### All Signal Processing
 {: .t60 }
 
-{% include list-posts tag='error correction' %}
+{% include list-posts tag='signal processing' %}
 
 [1]: {{ site.url }}/assets/slides/ErrorCorrectingCodes.pdf

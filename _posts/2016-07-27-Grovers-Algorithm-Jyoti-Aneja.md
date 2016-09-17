@@ -7,7 +7,7 @@ teaser: " Grovers algortihm is a quantum search algorithm that sclaes as O(sqrt(
 categories:
     - algorithm
 tags:
-    - machine learning 
+    - quantum algorithm
 image:
    thumb: "grovers_alg.jpg"
 header:

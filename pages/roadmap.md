@@ -23,8 +23,8 @@ permalink: "/roadmap/"
 |July 20 | Nick    | Theory of computation       |
 |July 28 | Jyoti   | Quantum algorithms          |
 |Aug. 4  | Ben     | Barnes-Hut Algorithm        |
-|Aug. 10 | Brian   | Genetic Algorithms          |
-|Aug. 17 | Eli     | Error Correcting Codes      |
+|Aug. 17 | Brian   | Genetic Algorithms          |
+|Aug. 24 | Eli     | Error Correcting Codes      |
 |Sep. 2  | Dima    | Fast Fourier Transform      |
 |Sep. 9  | Paul    | Particle Swarm Optimization |
 |Sep. 16 | Matt    | Predict Seizures with EEG   |

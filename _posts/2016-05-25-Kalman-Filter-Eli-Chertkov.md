@@ -8,6 +8,7 @@ categories:
 tags:
     - filter
     - control theory
+    - error correction
 image:
    thumb: "unsplash_brooklyn-bridge-thumb.jpg"
 header:

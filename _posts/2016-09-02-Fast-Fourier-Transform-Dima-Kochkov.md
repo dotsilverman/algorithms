@@ -9,7 +9,7 @@ categories:
 tags:
     - FFT
 image:
-   <!-- thumb: "smallImage.png" -->
+    thumb: Fourier.jpg
 header:
     image_fullwidth: "fourier.jpg"
 ---

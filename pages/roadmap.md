@@ -30,7 +30,7 @@ permalink: "/roadmap/"
 |Sep. 16 | Matt    | Predict Seizures with EEG   |
 |Sep. 23 | Kiel    | Numerical Integrators       |
 |Sep. 30 | Ben     | Shors algorithm             |
-|Oct. 7  | WooYoung|                             |
+|Oct. 7  | Souvik  | Max-flow Min-cut Theorem    |
 |Oct. 14 | Dot     |                             |
 |Oct. 21 | Jyoti   |                             |
 |Oct. 28 | Xiongjie|                             |
@@ -73,7 +73,7 @@ permalink: "/roadmap/"
    - ~~Diagnolization~~, inversion.
    - ~~Lanczos~~
    - random matrix theory.
-   - FFT (Fast Fourier transforms).
+   - ~~FFT (Fast Fourier transforms)~~
  - Numerical solutions to differential equations.
    - Finite difference approach.
    - Runge-Kutta and family.

@@ -7,11 +7,12 @@ teaser: "O(N log(N)) computation of a discrete fourier transform, fast integer m
 categories:
     - algorithm
 tags:
-    - FFT
+    - numerical method
 image:
-    thumb: Fourier.jpg
+    thumb: "Fourier.jpg"
 header:
     image_fullwidth: "fourier.jpg"
+    caption: cat.
 ---
 <!-- Page Content Starts Here -->
 
@@ -24,9 +25,9 @@ In [this presentation][1], I will give a short overview of the Fast Fourier tran
 *"[lecture on FFT complexity analysis](http://www.cs.columbia.edu/~stratos/research/fft.pdf)"
 
 
-
+### All Numerical Methods
 {: .t60 }
 
-{% include list-posts tag='FFT' %}
+{% include list-posts tag='numerical method' %}
 
 [1]: {{ site.url }}/assets/slides/FastFourierTransform.pdf

@@ -10,6 +10,7 @@ permalink: "/roadmap/"
 
 ## Current schedule (4:30 pm, Loomis 322)
 
+|:-------|:--------|:---------------------------:|
 |  Date  | Person  | Subject                     |
 |:-------|:--------|:---------------------------:|
 |May 25  | Eli     | Kalman Filter               |
@@ -34,6 +35,14 @@ permalink: "/roadmap/"
 |Oct. 14 | Dot     |                             |
 |Oct. 21 | Jyoti   |                             |
 |Oct. 28 | Xiongjie|                             |
+|Nov. 4  | Benji   |                             |
+|Nov. 11 | Pratik  |                             |
+|Nov. 18 | Alex    |                             |
+|Nov. 25 | Will    |                             |
+|Dec. 2  | Pathak  |                             |
+|Dec. 9  | Juha    |                             |
+|Dec. 16 | Brian   |                             |
+|:-------|:--------|:---------------------------:|
 
 ## Ideas for presentations
 

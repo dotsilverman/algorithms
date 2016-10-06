@@ -32,7 +32,7 @@ permalink: "/roadmap/"
 |Sep. 23 | Kiel    | Numerical Integrators       |
 |Sep. 30 | Ben     | Shors algorithm             |
 |Oct. 7  | Souvik  | Max-flow Min-cut Theorem    |
-|Oct. 14 | Dot     | Fractal Complexity          |
+|Oct. 14 | Dot     | Crochet Hyperbolic Geometry |
 |Oct. 21 | Jyoti   |                             |
 |Oct. 28 | Xiongjie|                             |
 |Nov. 4  | Benji   |                             |

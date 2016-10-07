@@ -33,15 +33,15 @@ permalink: "/roadmap/"
 |Sep. 30 | Ben     | Shors algorithm             |
 |Oct. 7  | Souvik  | Max-flow Min-cut Theorem    |
 |Oct. 14 | Dot     | Crochet Hyperbolic Geometry |
-|Oct. 21 | Jyoti   |                             |
-|Oct. 28 | Xiongjie|                             |
-|Nov. 4  | Benji   |                             |
-|Nov. 11 | Pratik  |                             |
-|Nov. 18 | Alex    |                             |
-|Nov. 25 | Will    |                             |
-|Dec. 2  | Pathak  |                             |
-|Dec. 9  | Juha    |                             |
-|Dec. 16 | Brian   |                             |
+|Oct. 21 | Benji   |                             |
+|Oct. 28 | Pratik  |                             |
+|Nov. 4  | Alex    |                             |
+|Nov. 11 | Will    |                             |
+|Nov. 18 | Pathak  |                             |
+|Nov. 25 | Juha    |                             |
+|Dec. 2  | Brian   |                             |
+|Dec. 9  | Eli     |                             |
+|Dec. 16 | Dima    |                             |
 |:-------|:--------|:---------------------------:|
 
 ## Ideas for presentations

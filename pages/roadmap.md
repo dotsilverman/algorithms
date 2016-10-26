@@ -33,9 +33,9 @@ permalink: "/roadmap/"
 |Sep. 30 | Ben     | Shors algorithm             |
 |Oct. 7  | Souvik  | Max-flow Min-cut Theorem    |
 |Oct. 14 | Dot     | Crochet Hyperbolic Geometry |
-|Oct. 21 | Benji   |                             |
+|Oct. 21 | Benji   | Pitch Correction - autotune |
 |Oct. 28 | Pratik  |                             |
-|Nov. 4  | Alex    |                             |
+|Nov. 4  | Alex    | Fractal Detection           |
 |Nov. 11 | Will    |                             |
 |Nov. 18 | Pathak  |                             |
 |Nov. 25 | Juha    |                             |

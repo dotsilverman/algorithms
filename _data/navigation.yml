@@ -2,22 +2,26 @@
   url: "/"
   side: left
 
-- title: Altar
+- title: Blog
   url: "/blog/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: Schedule
+  url: "/roadmap/"
   side: left
 
-- title: Documentation
-  url: "/documentation/"
+- title: Archive
+  url: "/blog/archive/"
   side: left
   dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+  - title: "Kalman Filter"
+    url: "/algorithm/Kalman-Filter-Eli-Chertkov/"
+  - title: "Compressed Sensing"
+    url: "/algorithm/Compressed-Sensing-Brian-Busemeyer/"
+  - title: "Genetic Algorithm"
+    url: "/algorithm/Evolutionary-Brian-Busemeyer/"
+  - title: "Particle Swarm Optimization"
+    url: "/algorithm/Particle-Swarm-Optimization-Yubo-Paul-Yang/"
 
 - title: "Search"
   url: "/search/"

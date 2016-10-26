@@ -8,17 +8,17 @@ layout: frontpage
 header:
   image_fullwidth: algorithm.jpg
 widget1:
-  title: "Altar"
+  title: "Blog"
   url: 'http://paul-st-young.github.io/algorithms/blog/'
   image: iron_throne.jpg
   text: 'Every week, one of us will learn an algorithm, present and leave a brief summay at this altar.'
 widget2:
-  title: "Logistics"
+  title: "Schedule"
   url: "http://paul-st-young.github.io/algorithms/roadmap/"
   image: wheel.jpg
   text: 'We meet every Friday from 4:30-5:30 pm in Loomis 322.'
 widget3:
-  title: "Algorithms"
+  title: "Archive"
   url: 'http://paul-st-young.github.io/algorithms/blog/archive'
   image: cyborg.jpg
   text: 'We will archive covered algorithms here, as well as post potentially interesting algorithms to be covered.'

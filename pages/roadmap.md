@@ -34,7 +34,7 @@ permalink: "/roadmap/"
 |Oct. 7  | Souvik  | Max-flow Min-cut Theorem    |
 |Oct. 14 | Dot     | Crochet Hyperbolic Geometry |
 |Oct. 21 | Benji   | Pitch Correction - autotune |
-|Oct. 28 | Pratik  |                             |
+|Oct. 28 | Pratik  | Hidden Markov Models        |
 |Nov. 4  | Alex    | Fractal Detection           |
 |Nov. 11 | Will    |                             |
 |Nov. 18 | Pathak  |                             |

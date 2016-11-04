@@ -36,7 +36,7 @@ permalink: "/roadmap/"
 |Oct. 21 | Benji   | Pitch Correction - autotune |
 |Oct. 28 | Pratik  | Hidden Markov Models        |
 |Nov. 4  | Alex    | Fractal Detection           |
-|Nov. 11 | Will    |                             |
+|Nov. 11 | Will    |Proportional-Integral Control|
 |Nov. 18 | Pathak  |                             |
 |Nov. 25 | Juha    |                             |
 |Dec. 2  | Brian   |                             |
@@ -53,7 +53,9 @@ permalink: "/roadmap/"
    - High dimensional visualization.
  - Control theory and signal processing.
    - Model reduction.
-   - Hidden markov model.
+   - ~~Hidden markov model.~~
+   - ~~Proportional-integral (PI) controller.~~
+   - ~~Kalman filter.~~
  - Stochastic algorithms.
    - The Metropolis approach to sampling and alternatives (Gibbs sampling, etc.).
    - Global balance (pentalty method).
@@ -81,11 +83,11 @@ permalink: "/roadmap/"
    - ~~QR / SVD. principle component analysis~~
    - ~~Diagnolization~~, inversion.
    - ~~Lanczos~~
-   - random matrix theory.
-   - ~~FFT (Fast Fourier transforms)~~
+   - Random matrix theory.
+   - ~~Fast Fourier transforms (FFT).~~
  - Numerical solutions to differential equations.
    - Finite difference approach.
-   - Runge-Kutta and family.
+   - ~~Runge-Kutta and family.~~
    - PDE solvers (additional problems from multivariate)
    - Energy conserving or time-reversal invariant versions.
  - Data compression.
@@ -95,8 +97,8 @@ permalink: "/roadmap/"
  - Quantum computing.
    - Quantum annealing.
    - Quantum error correction.
-   - ~~Grover algorithm~~. 
-   - Shor algorithm.
+   - ~~Grover algorithm.~~
+   - ~~Shor algorithm.~~
    - Quantum encryption.
    - Quantum stabilizers.
  - Parallelism.

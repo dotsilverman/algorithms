@@ -11,9 +11,9 @@ tags:
     - music
     - auto-tune
 image:
-   thumb: "backstreet_boys.jpg"
+   thumb: "singing.jpeg"
 header:
-    image_fullwidth: "singing.jpeg"
+    image_fullwidth: "backstreet_boys.jpg"
 ---
 <!-- Page Content Starts Here -->
 

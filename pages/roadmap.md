@@ -35,9 +35,9 @@ permalink: "/roadmap/"
 |Oct. 14 | Dot     | Crochet Hyperbolic Geometry |
 |Oct. 21 | Benji   | Pitch Correction - autotune |
 |Oct. 28 | Pratik  | Hidden Markov Models        |
-|Nov. 4  | Alex    | Fractal Detection           |
+|Nov. 4  | Alex    | Facial Detection            |
 |Nov. 11 | Will    |Proportional-Integral Control|
-|Nov. 18 | Pathak  |                             |
+|Nov. 18 | Shivesh |                             |
 |Nov. 25 | Juha    |                             |
 |Dec. 2  | Brian   |                             |
 |Dec. 9  | Eli     |                             |

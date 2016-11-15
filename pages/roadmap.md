@@ -37,7 +37,7 @@ permalink: "/roadmap/"
 |Oct. 28 | Pratik  | Hidden Markov Models        |
 |Nov. 4  | Alex    | Facial Detection            |
 |Nov. 11 | Will    |Proportional-Integral Control|
-|Nov. 18 | Shivesh |                             |
+|Nov. 18 | Shivesh |   Quantum Error Correction  |
 |Nov. 25 | Juha    |                             |
 |Dec. 2  | Brian   |                             |
 |Dec. 9  | Eli     |                             |

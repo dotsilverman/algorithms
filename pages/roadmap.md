@@ -37,8 +37,8 @@ permalink: "/roadmap/"
 |Oct. 28 | Pratik  | Hidden Markov Models        |
 |Nov. 4  | Alex    | Facial Detection            |
 |Nov. 11 | Will    |Proportional-Integral Control|
-|Nov. 18 | Shivesh |   Quantum Error Correction  |
-|Nov. 25 | Juha    |                             |
+|Nov. 18 | Shivesh | Quantum Error Correction    |
+|Nov. 25 | Juha    | Automatic Focus             |
 |Dec. 2  | Brian   | Cellular Automata           |
 |Dec. 9  | Eli     |                             |
 |Dec. 16 | Dima    |                             |
@@ -94,6 +94,9 @@ permalink: "/roadmap/"
    - Image compression techniques (one or more).
    - ~~Compressed sensing (l-1 technique).~~
    - Compressed sensing (probabilistic approach and connections to stat mech).
+ - Image Processing
+   - Image recognition
+   - ~~Automatic focus~~
  - Quantum computing.
    - Quantum annealing.
    - Quantum error correction.

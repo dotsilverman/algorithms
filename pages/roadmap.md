@@ -115,6 +115,6 @@ permalink: "/roadmap/"
    - Network routing.
  - Classic CS algorithms
    - Quicksort, Graph theory, ...
-   - Cellular atomata.
+   - ~~Cellular atomata~~.
    - ~~Theory of computation~~ (Turing, finite state machine, definition of language, regular expressions).
    - ~~complexity theory.~~

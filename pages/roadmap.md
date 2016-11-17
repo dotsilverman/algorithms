@@ -39,7 +39,7 @@ permalink: "/roadmap/"
 |Nov. 11 | Will    |Proportional-Integral Control|
 |Nov. 18 | Shivesh |   Quantum Error Correction  |
 |Nov. 25 | Juha    |                             |
-|Dec. 2  | Brian   |                             |
+|Dec. 2  | Brian   | Cellular Automata           |
 |Dec. 9  | Eli     |                             |
 |Dec. 16 | Dima    |                             |
 |:-------|:--------|:---------------------------:|

@@ -22,6 +22,8 @@
     url: "/algorithm/Evolutionary-Brian-Busemeyer/"
   - title: "Particle Swarm Optimization"
     url: "/algorithm/Particle-Swarm-Optimization-Yubo-Paul-Yang/"
+  - title: "Autofocus"
+    url: "/algorithm/Autofocus-Juha-Tiihonen/"
 
 - title: "Search"
   url: "/search/"

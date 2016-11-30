@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Blog"
   url: 'http://paul-st-young.github.io/algorithms/blog/'
-  image: iron_throne.jpg
+  image: news.jpg
   text: 'Every week, one of us will learn an algorithm, present and leave a brief summay at this altar.'
 widget2:
   title: "Schedule"

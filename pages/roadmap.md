@@ -40,7 +40,7 @@ permalink: "/roadmap/"
 |Nov. 18 | Shivesh | Quantum Error Correction    |
 |Nov. 25 | Juha    | Automatic Focus             |
 |Dec. 2  | Brian   | Cellular Automata           |
-|Dec. 9  | Eli     |                             |
+|Dec. 9  | Eli     | Belief Propagation          |
 |Dec. 16 | Dima    |                             |
 |:-------|:--------|:---------------------------:|
 
